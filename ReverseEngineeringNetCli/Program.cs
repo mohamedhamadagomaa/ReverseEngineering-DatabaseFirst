@@ -16,6 +16,5 @@ namespace EF03.ReverseEngineering
                     Console.WriteLine(item.FirstName);
             }
         }
-
     }
 }
